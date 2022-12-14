@@ -4,5 +4,7 @@ egg
 chicken curry
 mutton
 
+paneer
+dhal
 
 Thank You !!
